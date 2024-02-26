@@ -1,0 +1,66 @@
+Configs: {
+	MyConfig: {
+		DisplayName: Main Config
+
+		dynamicBackgroundColor: {
+			Label: Dynamic Background Color
+			Tooltip: Change the background color based on each NPC's price adjustment.
+		}
+
+		Headers: {
+			Colors: Color Settings
+			Positioning: Positioning Settings
+			Visual: Visual Settings
+		}
+
+		coinTextPadding: {
+			Tooltip: Distance between the price text and the coin icon.
+			Label: Coin Text Padding
+		}
+
+		yOffset: {
+			Tooltip: ""
+			Label: Y Offset
+		}
+
+		xOffset: {
+			Tooltip: ""
+			Label: X Offset
+		}
+
+		backgroundPadding: {
+			Tooltip: ""
+			Label: Background Padding
+		}
+
+		showBackground: {
+			Tooltip: Enable/Disable the background.
+			Label: Show Background
+		}
+
+		showPriceMultiplier: {
+			Tooltip: Enable/Disable visibility of the price multiplier value.
+			Label: Show Price Multiplier
+		}
+
+		showCoinIcon: {
+			Tooltip: Enable/Disable visibility of the coin icons.
+			Label: Show Coin Icon
+		}
+
+		dynamicPriceMultiplierColor: {
+			Tooltip: Change the Price Multiplier color based on each NPC's price adjustment.
+			Label: Dynamic Price Multiplier Color
+		}
+
+		backgroundColor: {
+			Label: Background Color
+			Tooltip: ""
+		}
+
+		priceMultiplierColor: {
+			Label: Price Multiplier Text Color
+			Tooltip: ""
+		}
+	}
+}

@@ -1,0 +1,9 @@
+A simple mod that displays an item's sell price next to each town NPC depending on their individual sell price.
+
+Hold the 'Favorite' keybind while hovering over an item to show the display.
+
+Fully customizable!
+
+Join the discord to see the full changelog, report bugs & suggest changes:
+(click homepage)
+https://discord.gg/MKcjBKwBVu
